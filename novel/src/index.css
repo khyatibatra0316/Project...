@@ -15,7 +15,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: rgba(99, 228, 228, 0.6);
+  background: url('./components/assets/copy.jpeg');
 }
 
 code {
