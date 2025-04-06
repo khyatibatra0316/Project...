@@ -4,9 +4,15 @@ function Home() {
     const navigate = useNavigate();
     return (
         <div>
-        <h1>Welcome</h1>
-        <h2>Hello</h2>
-        <button onClick={(()=>navigate('/c1'))} >newPage</button>
+        <h1 style={{marginBottom:'90vh'}}>Let's Read My Novel</h1>
+        <h2 style={{color:'green', marginTop:'-80vh'}}>Bound To You</h2>
+        <img src=""/>
+        <div></div>
+        <button onClick={(()=>navigate('/c1'))} >Chapter 1
+        </button>
+        <button onClick={(()=>navigate('/c2'))} >Chapter 2
+        </button>
+       </div>
         </div>
     );
 }
