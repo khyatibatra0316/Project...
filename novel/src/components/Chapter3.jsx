@@ -4,7 +4,7 @@ const Chapter3 = () => {
   return (
     <div>
         <h1 style={{textDecoration:'underline',textAlign:'center'}}>Chapter3</h1>
-        <p>It was the day we had planned to watch a movie. The show was scheduled for 4 PM, but honestly, I wasn’t as excited as I should have been—until a thought crossed my mind.
+        <p style={{fontFamily: 'cursive',fontSize:'20px'}}>It was the day we had planned to watch a movie. The show was scheduled for 4 PM, but honestly, I wasn’t as excited as I should have been—until a thought crossed my mind.
 I was going to meet him. But then, he said no.
 I still remember the exact moment when my phone buzzed at 12 PM with a message. And guess what? Samar was coming to watch the movie too! We were going to watch it together! My heart swelled with happiness, and suddenly, the day felt so much more special. I was on cloud nine. I had been convinced he wouldn’t come, and now that he was, it felt like a dream. I found myself twirling around my room, thanking God a hundred times over. I was so ecstatic that I even started playing romantic music to soak in the feeling completely.
 But amidst all that joy, one thought kept racing through my mind—I needed to get ready.
