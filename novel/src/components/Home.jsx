@@ -4,8 +4,7 @@ function Home() {
     const navigate = useNavigate();
     return (
         <div className='yess'>
-        <h1 style={{position: 'absolute',textDecoration: 'underline',left: '50%',top: 0,transform: 'translateX(-50%)',margin: 0,padding: '10px'}}>Wanna Read my Novel?</h1>
-        <h2 style={{color:'aquamarine', padding:'30px',textDecoration:'underline'}}>Bound To You</h2>
+        
         <img src=""/>
         <div style={{display:'flex',flexDirection:'column'}}>
         <button onClick={(()=>navigate('/c0'))} >Chapter 0</button>
