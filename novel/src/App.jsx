@@ -5,6 +5,7 @@ import Home from './components/Home';
 import Login from './components/login';
 import Chapter1 from './components/Chapter1'
 import Chapter2 from './components/Chapter2';
+import Chapter3 from './components/Chapter3';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Route path="/home" element={<Home />} />
         <Route path="/c1" element={<Chapter1 />} />
         <Route path="/c2" element={<Chapter2 />} />
+        <Route path="/c3" element={<Chapter3 />} />
       </Routes>
     </Router>
   );
